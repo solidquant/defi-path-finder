@@ -14,6 +14,10 @@ The sample exchanges used here are:
 Sushiswap V2 data is retrieved through a subgraph endpoint.
 And Meshswap data is retrieved through their specific API endpoint.
 
+Visit: https://solidquant.github.io/blog/post/building-a-defi-arbitrage-path-finder-(1)/
+
+for more information.
+
 
 ### Usage:
 
