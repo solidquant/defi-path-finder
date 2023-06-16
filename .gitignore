@@ -1,5 +1,9 @@
+dist/
 venv/
+build/
 __pycache__/
+
+defi_path_finder.egg-info/
 
 .idea/
 .vscode/

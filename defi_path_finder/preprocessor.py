@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-from collector import Collector
+from defi_path_finder.collector import Collector
 
 
 class Preprocessor:

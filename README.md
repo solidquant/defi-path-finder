@@ -27,9 +27,8 @@ Run the sample code in examples.py:
 ```python
 import pickle
 
-from preprocessor import Preprocessor
-from utils import make_triangular_paths
-
+from defi_path_finder import Preprocessor
+from defi_path_finder import make_triangular_paths
 
 if __name__ == '__main__':
     p = Preprocessor()
